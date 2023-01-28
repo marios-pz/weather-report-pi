@@ -1,11 +1,3 @@
-"""
-
-    Created by @mariospapaz.
-    
-        editing and reviewing the code is allowed.
-
-"""
-
 from bs4 import BeautifulSoup
 from time import sleep
 from requests import get as get_html
